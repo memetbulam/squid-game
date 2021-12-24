@@ -1,0 +1,33 @@
+* Main.js, index.html, style.css oluşturduk
+* three.min.js ekledik
+* Çalışma alanı oluşturduk
+* Çalışma alanı boyutunu belirledik
+* animate() fonksiyonunu oluşturduk
+* Sketchfab sitesinden 3d modeli indirip, ekledik(uzantı: gltf)
+* GLTFLoader.js ekledik
+* 3d modeli yükledik(load)
+* 3d modeli sahneye ekledik(load)
+* 3d modelin gözükmesi için çalışma alanına ortam ışığı ekledik(light)
+* 3d modelin boyutunu ayarladık(load)
+* Pencere boyutunun sürekli değişmesi için resize olayını dinledik(addEventListener)
+* 3d modelin pozisyonunu ayarladık(load)
+* çalışma alanına arkaplan rengi verdik(setClearColor)
+* Doll sınıfı oluşturduk
+* Doll sınıfından yeni bir doll nesnesi oluşturduk
+* Doll sınıfında lookBackward() metodu oluşturduk
+* Doll sınıfında lookForward() metodu oluşturduk
+* greensock sitesinden gsap.min.js yükledik
+* createCube() fonksiyonu oluşturduk
+* createTrack() fonksiyonu oluşturduk
+* Player sınıfı oluşturduk
+* Player sınıfında update() metodu oluşturduk
+* Keydown olayı oluşturduk
+* stop() metodu oluşturduk
+* Keyup olayı oluşturduk
+* Doll sınıfında async start() metodu oluşturduk
+* delay fonksiyonu oluşturduk
+* async init() fonksiyonu oluşturduk
+* startGame() fonksiyonu oluşturduk
+* startGame() fonksiyonu içerisinde progressBar oluşturduk
+* gameStat değişkeni oluşturduk
+* Player sınıfında check() metodu oluşturduk
